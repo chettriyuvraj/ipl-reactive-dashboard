@@ -38,7 +38,7 @@ the key for connecting to the Google Drive API(reflected in code file - connect_
 ## References: 
 
 1. [Deploying streamlit dashboard on Heroku](https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku)
-2. [Google Drive API)(https://developers.google.com/drive)
+2. [Google Drive API](https://developers.google.com/drive)
 3. [Connect and download files from Google Drive API](https://medium.com/@umdfirecoml/a-step-by-step-guide-on-how-to-download-your-google-drive-data-to-your-jupyter-notebook-using-the-52f4ce63c66c)
 
 
