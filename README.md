@@ -34,6 +34,9 @@ the key for connecting to the Google Drive API(reflected in code file - connect_
 4. If you want to self-deploy - changes will have to be made accordingly @ connect_to_google_drive.py
 
 
+5. All undocumented files such as 'Procfiles', 'procGen.py', et al are pre-requisites for the Heroku Deployment - they have been explained the references provided below.
+
+
 
 ## References: 
 
