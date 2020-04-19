@@ -16,11 +16,11 @@ The Heroku deployment of the dashboard is hosted at: https://fierce-woodland-338
 
 1. **Source files and their relevance**: 
 
--preprocess.py: defines functions for pre-processing data as well as for visualizations displayed in app.py
+   preprocess.py: defines functions for pre-processing data as well as for visualizations displayed in app.py
 
--tables.py: creates tables for visualizations using functions in preprocess.py 
+   tables.py: creates tables for visualizations using functions in preprocess.py 
 
--connect_to_google_drive.py - Authenticates credentials, connects to Google Drive API and retrieves the data file from owner's personal drive. 
+   connect_to_google_drive.py - Authenticates credentials, connects to Google Drive API and retrieves the data file from owner's personal drive. 
 
 
 2. notebooks - contains the Jupyter Notebook .ipynb files - where I performed EDA and Visualization(in a not-so-neat manner). 
