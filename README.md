@@ -14,7 +14,8 @@ The Heroku deployment of the dashboard is hosted at: https://fierce-woodland-338
 
 ## Notes: 
 
-1. Source files and their relevance: 
+1. **Source files and their relevance**: 
+
 -preprocess.py: defines functions for pre-processing data as well as for visualizations displayed in app.py
 
 -tables.py: creates tables for visualizations using functions in preprocess.py 
